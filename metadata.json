@@ -1,0 +1,6 @@
+{
+  "name": "UDP VPN Tunnel",
+  "description": "High-performance VPN client with UDP tunneling, profile management, and live traffic metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
